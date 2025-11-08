@@ -27,8 +27,8 @@ Skilled in **Excel (Pivot Tables & Charts)**, **Power BI (Power Query)**, and **
 ---
 
 ## 📫 Connect
-- LinkedIn: `https://www.linkedin.com/in/parnika-r-c`  
-- Email: `parnikaraj127@gmail.com`
+- LinkedIn:https://www.linkedin.com/in/parnika-r-c
+- Email: parnikaraj127@gmail.com
 
 ---
 
