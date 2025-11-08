@@ -32,4 +32,3 @@ Skilled in **Excel (Pivot Tables & Charts)**, **Power BI (Power Query)**, and **
 
 ---
 
-⭐ *“Turning raw data into actionable insights.”
